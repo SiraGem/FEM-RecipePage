@@ -1,0 +1,93 @@
+@font-face {
+    font-family: Outfit;
+    font-weight: 400;
+    src: url(assets/fonts/outfit/Outfit-VariableFont_wght.ttf);
+  }
+  @font-face {
+    font-family: Young-serif;
+    font-weight: 400;
+    src: url(assets/fonts/young-serif/YoungSerif-Regular.ttf);
+  }
+  .attribution {
+     font-size: 11px;
+      text-align: center; 
+      padding: 30px;
+    }
+  .attribution a { color: hsl(228, 45%, 44%); }
+  body {
+    background-color: hsl(30, 54%, 90%);
+    font-family: Outfit;
+    font-weight: 400;
+    color: hsl(30, 10%, 34%);
+  }
+  div, img{
+    border-radius: 15px;
+  }
+  #page {
+    background-color: hsl(0, 0%, 100%);
+    margin: auto;
+    margin-top: 100px;
+    padding: 30px;
+    max-width: 750px;
+  }
+  #time {
+    background-color: hsl(330, 100%, 98%);
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 5px;
+    margin-right: 5px;
+    padding: 10px;
+  }
+  #time, ul {
+    line-height: 2.0;
+  }
+  h1 {
+    font-family: Young-serif;
+    color: hsl(24, 5%, 18%);;
+  }
+  h2 {
+    font-family: Young-serif;
+    color: hsl(14, 45%, 36%);
+  }
+  h3 {
+    color: hsl(332, 51%, 32%);
+    padding-left: 15px;
+  }
+  hr {
+    border: 1px solid hsl(30, 18%, 87%);
+  }
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  tr {
+    border-bottom: 1px solid hsl(30, 18%, 87%);
+  }
+  tr:last-of-type {
+    border-bottom: 0;
+  }
+  td {
+    padding: 10px;
+  }
+  b.quantities {
+    color: hsl(14, 45%, 36%);
+  }
+  ul, ol{
+    padding-left: 5%;
+  }
+  li::marker {
+    color:hsl(14, 45%, 36%);
+    font-weight: bold;
+  }
+  ul li::marker {
+    font-size: smaller;
+  }
+  li {
+    padding-left: 20px;
+  }
+  ol {
+    line-height: 30px;
+  }
+  img {
+    width: 100%;
+  }
