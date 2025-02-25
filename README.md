@@ -23,8 +23,8 @@ This was my first completed challenge from Front End Mentor and it was really he
 
 ### Links
 
-- Solution URL: [GitHub solution](https://github.com/SiraGem/FEM-RecipePage)
-- Live Site URL: [GitHub live site](https://siragem.github.io/FEM-RecipePage/)
+- Solution URL: [GitHub solution](https://github.com/gmuletr/FEM-RecipePage)
+- Live Site URL: [GitHub live site](https://gmuletr.github.io/FEM-RecipePage/)
 
 ### Built with
 
@@ -54,9 +54,10 @@ const proudOfThisFunc = () => {
 ### Continued development
 
 In the future, I would like to focus on aligning all elements correctly and using margin and padding and spacing in the best way possible.
+I would also like to learn how to adapt the webpage to mobile view.
 
 ## Author
 
-- GitHub - [SiraGem](https://www.your-site.com)
-- Frontend Mentor - [@SiraGem](https://www.frontendmentor.io/profile/yourusername)
+- GitHub - [gmuletr](https://github.com/gmuletr)
+- Frontend Mentor - [@gmuletr](https://www.frontendmentor.io/profile/gmuletr)
 
